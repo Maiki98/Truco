@@ -1,4 +1,4 @@
-# marcador_truco_isepe
+# marcador truco
 
 A new Flutter project.
 
